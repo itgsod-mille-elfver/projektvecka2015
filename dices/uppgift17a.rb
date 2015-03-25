@@ -23,7 +23,7 @@ diff3 = 0
   (1..6).each do |dice2|
     if (dice1-dice2).abs == 4
       diff3 += 1
-      print "#{dice1},#{dice2} ".red
+      q "#{dice1},#{dice2} ".red
     else
       print "#{dice1},#{dice2} ".blue
     end
