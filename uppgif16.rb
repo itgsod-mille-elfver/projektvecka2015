@@ -4,4 +4,5 @@ repayment = 1121
 
 totalrepayment = repayment*months
 print "totalrepayment #{totalrepayment}"
+#gg
 
